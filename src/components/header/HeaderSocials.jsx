@@ -6,7 +6,7 @@ const HeaderSocials = () => {
     <div className='header__socials'>
       <a href="https://www.linkedin.com/in/govarathan-bb25061bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><BsLinkedin /></a>
       <a href="https://github.com/govarathan" target="blank"><BsGithub/></a>
-      <a href="https://dribbble.com/Govarathan?onboarding=true&designer=true" target="blank"><BsDribbble/></a>
+      <a href="https://app.netlify.com/teams/govarathan/overview" target="blank"><BsDribbble/></a>
    
     
     
